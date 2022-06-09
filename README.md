@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tambasafidy Francisco Pascal Elias (Elias)
-- 👀 I’m interested in Android app development, Machine learning project and Embbeded system programming.
+- 👀 I’m interested in Electronic, electronic repair, Embbeded system, Android app development and Machine learning project.
 - 🌱 I’m currently learning Machine learning 
-- 💞️ I’m looking to collaborate on Android App developmentMachine learning project and Embedded system programming
+- 💞️ I’m looking to collaborate on Android App development, Machine learning project and Embedded system programming
 - 📫 How to reach me ...
 
 <!---
